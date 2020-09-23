@@ -25,7 +25,7 @@ There are surprisingly few competitors directly in this space, as many people re
 
 *	**Node.js** - for full stack connectivity with the server side
 
-	**Java** - reliable and stable server-side processing	
+*	**Java** - reliable and stable server-side processing	
 
 *	**Bootstrap** - a CSS template used for style and ux design
 
@@ -68,12 +68,12 @@ Fee-for-service financial planning has also become more popular.  Rather than pa
 
 What are the other major companies in this domain?  This firm crosses domains, but some of the major players are  Mint.com, SoFi, Lending Club, Funding Circle, OakNorth (Europe), Addepar, and Advizr.  Larger established financial firms also have their own versions of robo-advising, and historical RIA advisors have become commoditized at this point, indicating robo-advising will increase in market share in future years.
 
-## Results
+## Results/Business Impact
 ---
-What has been the business impact of this company so far? Regarding the firm, it is highly profitable, and has surprisingly high fees for the clients who invest assets with them.  They charge close to the Registered Investment Advisor average of 1% of assets, but due to the large average account balance of $440k, they generate approximately $75M in revenues, with relatively low operating costs.  
+Regarding the firm, it is highly profitable, and has surprisingly high fees for the clients who invest assets with them.  They charge close to the Registered Investment Advisor average of 1% of assets, but due to the large average account balance of $440k, they generate approximately $75M in revenues, with relatively low operating costs.  
 The impact of this company to the consumer is ultimately efficiency of personal financial information, which is difficult to quantify. Individuals can now manage their money better, allocate their resources more efficiently, save money on fees, expenses, and taxes which results in a higher propensity to consume, which increases overall spending output leading to economic growth.  It has likely hurt financial advisors who are less needed when the consumer has the information directly available to them.  
 
-* What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?  The primary metrics/KPI's are pretty straightforward:
+All companies rely on KPI's to determine their performance.  The primary metrics/KPI's in the case of Presonal Capital are pretty straightforward:
  - number of subscribers (listed as 2.6M), which are ultimately leads in the sales funnel.  
  - Number of investment clients (listed as 24,500), which is the primary revenue source.  As a subset of this the average account balance increases revenue per client
  - The culmination of the KPI's mentioned above is assets under management, which is currently listed as $14B.  While this is relatively small in the financial services arena, it shows exceptional growth for a small company, and they would like to continue increasing this figure.
@@ -83,7 +83,8 @@ The impact of this company to the consumer is ultimately efficiency of personal 
 ## Recommendations
 ---
 * While they appear to have a strong leadership team and a powerful yet easily-accessible product, they should focus on the two strategies all financial services firms should: Broaden product offerings, and global expansion. These types of firms make money based on scale, and using their existing technologies, they are positioned to be a market leader in this area.
-* There are many approaches they could take to broaden their offerings.  These include, but are not limited to, the following:
+
+There are many approaches they could take to broaden their offerings.  These include, but are not limited to, the following:
 -  Offer alternative investments - such as partnering with lending club to give clients a better way to store cash or IRA funds.
 - Allow self-directed IRA's which have the ability to invest directly in real estate, art work, rare coins, currencies, and other non-traditional assets.  
 - They could even offer clients a way to invest in startups, Reg-D's, and participate directly in other operational businesses.
