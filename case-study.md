@@ -10,7 +10,7 @@
 
 * The company was originally funded at $265.3M with 12 investors, then was recently purchased for $1B by Empower, which was at a premium to the firm's valuation.
 
-## Business Activities:
+## Business Activities
 ---
 Many individuals have their assets scattered in different places, and don't have a holistic view of what they have, where the gaps are, and do not have a roadmap to plan their future.  They also have the same problem on the other side of the balance sheet (liabilities), and do not understand the correlation between the two.
 
@@ -83,7 +83,7 @@ All companies rely on KPI's to determine their performance.  The primary metrics
 
 ## Recommendations
 ---
-* While they appear to have a strong leadership team and a powerful yet easily-accessible product, they should focus on the two strategies all financial services firms should: Broaden product offerings, and global expansion. These types of firms make money based on scale, and using their existing technologies, they are positioned to be a market leader in this area.
+While they appear to have a strong leadership team and a powerful yet easily-accessible product, they should focus on the two strategies all financial services firms should: Broaden product offerings, and global expansion. These types of firms make money based on scale, and using their existing technologies, they are positioned to be a market leader in this area.
 
 There are many approaches they could take to broaden their offerings.  These include, but are not limited to, the following:
 - Offer alternative investments - such as partnering with Lending Club to give clients a better way to store cash or IRA funds.
