@@ -20,7 +20,8 @@ There are surprisingly few competitors directly in this space, as many people re
 
 ## Technologies Used
 ---
-* The firm uses a wide array of technologies, including:
+![Image of the App](app_img.png)
+### The firm uses a wide array of technologies, including:
 *	**Javascript/Jquery/plugins** - for efficient and visually appealing client-side development
 
 *	**Node.js** - for full stack connectivity with the server side
@@ -75,9 +76,9 @@ Regarding the firm, it is highly profitable, and has surprisingly high fees for 
 The impact of this company to the consumer is ultimately efficiency of personal financial information, which is difficult to quantify. Individuals can now manage their money better, allocate their resources more efficiently, save money on fees, expenses, and taxes which results in a higher propensity to consume, which increases overall spending output leading to economic growth.  It has likely hurt financial advisors who are no longer essential when the consumer has the information directly available to them.  
 
 All companies rely on KPI's to determine their performance.  The primary metrics/KPI's in the case of Personal Capital are pretty straightforward:
- - Number of subscribers (listed as 2.6M), which are ultimately leads in the sales funnel
- - Number of investment clients (listed as 24,500), which is the primary revenue source.  As a subset of this the sizable average account balance increases revenue per client
- - The culmination of the KPI's mentioned above is Assets Under Management (AUM), which is currently listed as $14B.  While this is relatively small in the financial services arena, it shows exceptional growth for a small company.
+  1. Number of subscribers (listed as 2.6M), which are ultimately leads in the sales funnel
+  2. Number of investment clients (listed as 24,500), which is the primary revenue source.  As a subset of this the sizable average account balance increases revenue per client
+  3. The culmination of the KPI's mentioned above is Assets Under Management (AUM), which is currently listed as $14B.  While this is relatively small in the financial services arena, it shows exceptional growth for a small company.
 
 * Though the industry has some cross-over, Personal Capital is considered to be the most profitable firm in its space.  It is a personal financial management tool and robo-advisor, though it also has personal advisors, as well as asset management.  With a lot of competitors in different areas in which they participate, it is difficult to say they are the best, though they are definitely a major player and growth potential is virtually unlimited.  They are much more nimble than traditional asset managers, and have adequate resources to continue investing in technology.
 
@@ -118,4 +119,4 @@ There are many approaches they could take to broaden their offerings.  These inc
 
 *	[Forbes](https://forbes.com)
 
-*	[Google-non-specific-sources](https://Google.com)
+*	[Google-non-specific-sources](https://Google.com) - *responses provided directly in the search*
